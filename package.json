@@ -3,6 +3,7 @@
   "version": "0.1.1",
   "author": "johnsonhuang94",
   "private": false,
+  "main": "./packages/index.js",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
